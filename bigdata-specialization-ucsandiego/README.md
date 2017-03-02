@@ -5,7 +5,9 @@
 
 Meine Zertifikate
 
-[Introduction to Big Data]()
+Introduction to Big Data
 [Big Data Modeling & Management Systems](https://www.coursera.org/account/accomplishments/certificate/65BMQXDRDNQ9)
+
 [Big Data Integration & Processing](https://www.coursera.org/account/accomplishments/certificate/8Z6P348QCJW9)
+
 [Machine Learning with Big Data](https://www.coursera.org/account/accomplishments/certificate/NMXE4U3UPM3C)
