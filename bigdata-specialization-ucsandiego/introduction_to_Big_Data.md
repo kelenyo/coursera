@@ -37,7 +37,28 @@ Daten (z.B. XML-Dokumente) oder als strukturierte Daten (z.B. relationale Tabell
   - Je mehr die Daten verbunden sind, desto höher ist die Wertigkeit.
   - Valenz-Herausforderungen umfassen komplexere Daten-Explorations-Algorithmen, Modellierung und Vorhersage von Valenz-Änderungen, Gorup-Event-Erkennungen, emergent Verhaltensanalyse.
 
+###Skills im Zusammenhang mit Data Science
 
+- **Mathematik und Statistik**
+  - Maschinelles Lernen, Statistische Modellierung, Experimentdesign, Bayes'sche Schlussfolgerung
+  - Beaufsichtigtes Lernen: Entscheidungsbäume, zufälliger Wald, logistische Regression
+  - Unüberwachtes Lernen: Clustering, Dimensionsreduktion.
+  - Optimierung: Steigungsabstieg und Varianten.
+- **Programmierung & Datenbanken**
+  - Informatik-Grundlagen, Skriptsprachen (z. B. Python), statistische Rechenpakete (z. B. R), Datenbanken (z. B. SQL, MongoDB)
+  - Relationale Algebra
+  - Parallelverarbeitung, verteiltes Rechnen
+  - Hadoop, Hive, Pig, MapReduce Konzepte
+- **Domain Knowledge & Soft Skills**
+  - Leidenschaftlich über das Geschäft, neugierig auf die Daten
+  - Einfluß ohne Autorität
+  - Hacker Mentalität, Problemlösung.
+  - Strategisch, proaktiv, kreativ, innovativ und kollaborativ.
+- **Kommunikation und Visualisierung**
+  - Sich mit der Geschäftsleitung beschäftigen
+  - Erkennen von Fähigkeiten, Übersetzung von datengesteuerten Einsichten in Entscheidungen und Handlungen.
+  - Visual Art Design, D3.js, Tableau, Flare
+  
 ###Fünf Komponenten von Data Science
 
 - **People**: Bezieht sich auf das Data Science-Team. (Ingenieure, Business)
