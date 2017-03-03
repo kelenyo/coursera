@@ -12,7 +12,7 @@ Die Big-Data-Ära wird durch wachsende Datenmenge und die Cloud Computing (Compu
 - Durch Menschen generierte Daten (Facebook, Google, Instagram etc.): **Unstrukturierte Daten**
 - Durch Organisationen generierte Daten (Unternehmen, Nichtregierungsorganisationen, etc.): **Strukturierte Daten aber Prozess‐Silo**
 
-#Die V's von Big Data (Eigenschaschaften von Big Data)
+##Die V's von Big Data (Eigenschaschaften von Big Data)
 
 - **Volume (Masse)**: Bezieht sich auf die riesigen Datenmengen, die jede Sekunde, Minute, Stunde und Tag erzeugt werden.
 
@@ -22,7 +22,7 @@ Die Big-Data-Ära wird durch wachsende Datenmenge und die Cloud Computing (Compu
 
 - **Velocity (Speed)**: Geschwindigkeit, mit der die Datenmengen generiert und von einem Punkt zum nächsten transferiert werden.
 
-* Velocity = Speed - (Change of X / Change of T)
+- - Velocity = Speed - (Change of X / Change of T)
 
 * Batch-Verarbeitung: Daten sammeln, Daten reinigen, Chunks einlegen, Warten, Aktion.
 
