@@ -12,10 +12,9 @@ Die Big-Data-Ära wird durch wachsende Datenmenge und die Cloud Computing (Compu
 - Durch Menschen generierte Daten (Facebook, Google, Instagram etc.): **Unstrukturierte Daten**
 - Durch Organisationen generierte Daten (Unternehmen, Nichtregierungsorganisationen, etc.): **Strukturierte Daten aber Prozess‐Silo**
 
-##Die V's von Big Data (Eigenschaschaften von Big Data)
+##Die V's von Big Data (Eigenschaften von Big Data)
 
 - **Volume (Masse)**: Bezieht sich auf die riesigen Datenmengen, die jede Sekunde, Minute, Stunde und Tag erzeugt werden.
-
   - Digitale Daten werden um den Faktor 44 um rund 35,2 ZB wachsen.
   - Es gibt einige Herausforderungen mit massiven Datenvolumen wie das Speichern, die Datenerfassung, der Abruf, der Vertrieb und die Verarbeitung.
 
@@ -28,7 +27,6 @@ Die Big-Data-Ära wird durch wachsende Datenmenge und die Cloud Computing (Compu
 Daten (z.B. XML-Dokumente) oder als strukturierte Daten (z.B. relationale Tabellen).
 
 - **Veracity: (Quality)**: Bezieht sich auf die Vorspannung, der Lärm und die Abnormalität in den Daten. Vertrauenswürdigkeit der Daten. 
-
   - Daten haben keinen Wert, wenn sie nicht scharf sind. (Junk in = Junk out)
   - Data Providence: Welche Informationen haben Daten bis zu dem Zeitpunkt, in dem sie für eine Schätzung verwendet wurden, durchlaufen?
   - Die wachsenden Ströme großer Daten drängen auf schnelle Lösungen. Dies schafft Herausforderungen bzbl. der Datenqualität der gesammelten Daten.
