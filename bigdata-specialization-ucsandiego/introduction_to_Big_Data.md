@@ -16,33 +16,33 @@ Die Big-Data-Ära wird durch wachsende Datenmenge und die Cloud Computing (Compu
 
 - **Volume (Masse)**: Bezieht sich auf die riesigen Datenmengen, die jede Sekunde, Minute, Stunde und Tag erzeugt werden.
 
--- Digitale Daten werden um den Faktor 44 um rund 35,2 ZB wachsen.
+* Digitale Daten werden um den Faktor 44 um rund 35,2 ZB wachsen.
 
--- Es gibt einige Herausforderungen mit massiven Datenvolumen wie das Speichern, die Datenerfassung, der Abruf, der Vertrieb und die Verarbeitung.
+* Es gibt einige Herausforderungen mit massiven Datenvolumen wie das Speichern, die Datenerfassung, der Abruf, der Vertrieb und die Verarbeitung.
 
 - **Velocity (Speed)**: Geschwindigkeit, mit der die Datenmengen generiert und von einem Punkt zum nächsten transferiert werden.
 
--- Velocity = Speed - (Change of X / Change of T)
+* Velocity = Speed - (Change of X / Change of T)
 
--- Batch-Verarbeitung: Daten sammeln, Daten reinigen, Chunks einlegen, Warten, Aktion.
+* Batch-Verarbeitung: Daten sammeln, Daten reinigen, Chunks einlegen, Warten, Aktion.
 
--- Realtime Processing: Sofortige Erfassung von Streaming-Daten, Datein in Echtzeit einlegen, Echtzeit Verarbeitung, Aktion.
+* Realtime Processing: Sofortige Erfassung von Streaming-Daten, Datein in Echtzeit einlegen, Echtzeit Verarbeitung, Aktion.
 
 - **Variety: (Complexity)**: Bandbreite der Datentypen und -quellen. Die Daten treten in unterschiedlichsten Formen und Formaten auf, darunter als unstrukturierter Text, als semi-strukturierte
 Daten (z.B. XML-Dokumente) oder als strukturierte Daten (z.B. relationale Tabellen).
 
 - **Veracity: (Quality)**: Bezieht sich auf die Vorspannung, der Lärm und die Abnormalität in den Daten. Vertrauenswürdigkeit der Daten. 
 
--- Daten haben keinen Wert, wenn sie nicht scharf sind. (Junk in = Junk out)
+* Daten haben keinen Wert, wenn sie nicht scharf sind. (Junk in = Junk out)
 
--- Data Providence: Welche Informationen haben Daten bis zu dem Zeitpunkt, in dem sie für eine Schätzung verwendet wurden, durchlaufen?
+* Data Providence: Welche Informationen haben Daten bis zu dem Zeitpunkt, in dem sie für eine Schätzung verwendet wurden, durchlaufen?
 
--- Die wachsenden Ströme großer Daten drängen auf schnelle Lösungen. Dies schafft Herausforderungen bzbl. der Datenqualität der gesammelten Daten.
+* Die wachsenden Ströme großer Daten drängen auf schnelle Lösungen. Dies schafft Herausforderungen bzbl. der Datenqualität der gesammelten Daten.
 
 - **Value (Wert)**: Bezieht sich auf den unternehmerischen Mehrwert.
 
 - **Valence (Verbundenheit)**: Verbundenheit großer Daten in Form von Graphen.
 
--- Je mehr die Daten verbunden sind, desto höher ist die Wertigkeit.
+* Je mehr die Daten verbunden sind, desto höher ist die Wertigkeit.
 
--- Valenz-Herausforderungen umfassen komplexere Daten-Explorations-Algorithmen, Modellierung und Vorhersage von Valenz-Änderungen, Gorup-Event-Erkennungen, emergent Verhaltensanalyse.
+* Valenz-Herausforderungen umfassen komplexere Daten-Explorations-Algorithmen, Modellierung und Vorhersage von Valenz-Änderungen, Gorup-Event-Erkennungen, emergent Verhaltensanalyse.
