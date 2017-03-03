@@ -36,7 +36,9 @@ Daten (z.B. XML-Dokumente) oder als strukturierte Daten (z.B. relationale Tabell
 - **Valence (Verbundenheit)**: Verbundenheit großer Daten in Form von Graphen.
   - Je mehr die Daten verbunden sind, desto höher ist die Wertigkeit.
   - Valenz-Herausforderungen umfassen komplexere Daten-Explorations-Algorithmen, Modellierung und Vorhersage von Valenz-Änderungen, Gorup-Event-Erkennungen, emergent Verhaltensanalyse.
+
 ---
+
 ###Skills im Zusammenhang mit Data Science
 
 - **Mathematik und Statistik**
