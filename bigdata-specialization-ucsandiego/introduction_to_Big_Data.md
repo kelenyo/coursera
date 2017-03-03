@@ -41,11 +41,11 @@ Daten (z.B. XML-Dokumente) oder als strukturierte Daten (z.B. relationale Tabell
 
 - **Mathematik und Statistik**
   - Maschinelles Lernen, Statistische Modellierung, Experimentdesign, Bayes'sche Schlussfolgerung
-  - Beaufsichtigtes Lernen: Entscheidungsbäume, zufälliger Wald, logistische Regression
+  - Überwachtes Lernen: Entscheidungsbäume, random forest, logistic regression
   - Unüberwachtes Lernen: Clustering, Dimensionsreduktion.
   - Optimierung: Steigungsabstieg und Varianten.
 - **Programmierung & Datenbanken**
-  - Informatik-Grundlagen, Skriptsprachen (z. B. Python), statistische Rechenpakete (z. B. R), Datenbanken (z. B. SQL, MongoDB)
+  - Informatik-Grundlagen, Skriptsprachen (z. B. Python), statistische Programme (z. B. R), Datenbanken (z. B. SQL, MongoDB)
   - Relationale Algebra
   - Parallelverarbeitung, verteiltes Rechnen
   - Hadoop, Hive, Pig, MapReduce Konzepte
@@ -57,7 +57,7 @@ Daten (z.B. XML-Dokumente) oder als strukturierte Daten (z.B. relationale Tabell
 - **Kommunikation und Visualisierung**
   - Sich mit der Geschäftsleitung beschäftigen
   - Erkennen von Fähigkeiten, Übersetzung von datengesteuerten Einsichten in Entscheidungen und Handlungen.
-  - Visual Art Design, D3.js, Tableau, Flare
+  - Visual Art Design, D3.js, Tableau, Flare, Asterix
   
 ###Fünf Komponenten von Data Science
 
