@@ -1,4 +1,4 @@
-##Introduction to Big Data
+#Einführung in das Thema Big Data
 Die Big-Data-Ära wird durch wachsende Datenmenge und die Cloud Computing (Computing Anytime, Anywhere) begünstigt.
 
 **Anwendungsfälle:**
@@ -7,7 +7,7 @@ Die Big-Data-Ära wird durch wachsende Datenmenge und die Cloud Computing (Compu
 - Von Big Data zum Personalized Medicine
 - Von Big Data zu Smart Cities
 
-**Datenquellen:**
+**Verschiedene Datenquellen:**
 - Maschinendaten sind die größte Quelle von Daten BigData: **Strukturierte Daten**
 - Durch Menschen generierte Daten (Facebook, Google, Instagram etc.): **Unstrukturierte Daten**
 - Durch Organisationen generierte Daten (Unternehmen, Nichtregierungsorganisationen, etc.): **Strukturierte Daten aber Prozess‐Silo**
