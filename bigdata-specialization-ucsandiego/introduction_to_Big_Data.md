@@ -36,3 +36,14 @@ Daten (z.B. XML-Dokumente) oder als strukturierte Daten (z.B. relationale Tabell
 - **Valence (Verbundenheit)**: Verbundenheit großer Daten in Form von Graphen.
   - Je mehr die Daten verbunden sind, desto höher ist die Wertigkeit.
   - Valenz-Herausforderungen umfassen komplexere Daten-Explorations-Algorithmen, Modellierung und Vorhersage von Valenz-Änderungen, Gorup-Event-Erkennungen, emergent Verhaltensanalyse.
+
+
+###Fünf Komponenten von Data Science
+
+- **People**: Bezieht sich auf das Data Science-Team. (Ingenieure, Business)
+- **Purpose**: Bezieht sich auf die Herausforderungen, die durch die Strategie definiert werden.
+- **Process**: Definiere einen Prozess, um zusammenzuarbeiten und zu kommunizieren.
+  - Big Data Engineering, Computation Große Datenwissenschaft (Advanced Analytics)
+  - Daten erwerben -> Daten vorbereiten -> Daten analysieren -> Berichte generieren -> handeln
+- **Platforms**: Hadoop Framework, Skalierbarkeit, Infrastruktur, etc.
+- **Progammability**: Sollte über wiederverwendbare Schnittstellen programmierbar sein.
