@@ -7,7 +7,7 @@ Die wichtigen Fragen bei einer Daten basierten Applikation
 - Wie kann man Datenvolumen, Vielfalt, Geschwindigkeit und Zugriff skalieren?
 - Wie sind die Daten sicher zu halten?
 
-###Datenaufnahme:
+##Datenaufnahme:
 - Wie viele Datenquellen? ca. 20
 - Wird die Anzahl der Datenquellen wachsen? Nicht wirklich
 - Rate der Datenaufnahme? 3k/Tag
