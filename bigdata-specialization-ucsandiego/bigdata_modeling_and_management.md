@@ -35,7 +35,7 @@ Die wichtigen Fragen bei einer Daten basierten Applikation
   - Paralleloperationen sind möglicherweise langsamer
   - Es ist einfacher in der Praxis mehr Maschinen hinzuzufügen
 
-** Die Server-Industrie hat viele Lösungen für Scale-up / Scale-out-Entscheidungen **
+**Die Server-Industrie hat viele Lösungen für Scale-up / Scale-out-Entscheidungen**
 
 ### Sichere Datenhaltung:
 - Datensicherheit - ein Muss für sensible Daten
